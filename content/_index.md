@@ -1,7 +1,7 @@
 ---
-title: "Mi pagina con hugo"
+title: "Sombra puta manca"
 
-description: "Test sitio estático."
+description: "xDDDDDDDDDDDD"
 
 featured_image: '/images/hero-image.jpg'
 ---
